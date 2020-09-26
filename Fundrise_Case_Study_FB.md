@@ -2,8 +2,6 @@
 
 ![image](https://www.linkpicture.com/q/FundrisePlatform_1.png)
 
-# The Opportunity Called Fundrise
-
 ## Overview and Origin
 
 Fundrise was founded in June of 2012 by Benjamin Miller. Its goal is to provide individual US investors with access to private real estate investments at a nominal cost. The company is headquartered in Washington, D.C. and as of April 2020, has 124 employees. Owning real estate has historically been a long-term predictor of wealth. However, it is often inaccessible to many Americans due to the down payment or other financial barriers. Ben Miller and his team saw this as an opportunity to use technology to create a diversified portfolio of private real assets and raise capital through crowdfunding to purchase these assets. This would remove the entry barrier as multiple investors could combine their deposits to purchase a property, allow each investor to own a portion of that asset relative to their deposit, and lastly provide increased returns as private real estate markets yield more than public ones.
