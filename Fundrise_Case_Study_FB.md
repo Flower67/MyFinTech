@@ -1,6 +1,6 @@
 # Fundrise: Untapped Private Real Estate Market Inefficiencies
 
-                                ![image](https://www.linkpicture.com/q/FundrisePlatform_1.png)
+![image](https://www.linkpicture.com/q/FundrisePlatform_1.png)
 
 ## Overview and Origin
 
