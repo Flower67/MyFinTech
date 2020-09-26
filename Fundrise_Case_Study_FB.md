@@ -1,6 +1,6 @@
 # Fundrise: Untapped Private Real Estate Market Inefficiencies
 
-![Fundrise Platform Picture] (Users/fbeyegue/Documents/GitRepos/MyFinTech_GitHub/FundrisePlatform.png "Fundrise iOS Application")
+![Fundrise Platform Picture](Users/fbeyegue/Documents/GitRepos/MyFinTech_GitHub/FundrisePlatform.png "Fundrise iOS Application") 
 
 ## Overview and Origin
 
