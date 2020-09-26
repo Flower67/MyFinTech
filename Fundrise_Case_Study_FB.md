@@ -36,7 +36,8 @@ Several industry giants were late movers—Blackstone Real Estate Income Trust (
 
 ## References
 
-[Retail Investor](https://www.investopedia.com/terms/r/retailinvestor.asp)
+[Retail Investor](https://www.investopedia.com/terms/r/retailinvestor.asp) 
+print()
 [Fundrise 2.0: Online Real Estate Investment Platform Revamps Service with First Ever Robo-Advisor for Real Estate](https://www.crowdfundinsider.com/2017/06/101973-fundrise-2-0-online-real-estate-investment-platform-revamps-service-first-ever-robo-advisor-real-estate/)
 [Fundrise How it works](https://fundrise.com/how-it-works)
 [Fundrise About Us](https://fundrise.com/about)
