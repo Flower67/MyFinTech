@@ -1,6 +1,6 @@
 # Fundrise: Untapped Private Real Estate Market Inefficiencies
 
-![Fundrise Platform Picture](Users/fbeyegue/Documents/GitRepos/MyFinTech_GitHub/FundrisePlatform.png) 
+![Fundrise Platform Picture](/Users/fbeyegue/Documents/GitRepos/MyFinTech_GitHub/FundrisePlatform.png)
 
 ## Overview and Origin
 
@@ -40,15 +40,15 @@ Several industry giants were late movers—Blackstone Real Estate Income Trust (
 
 [Fundrise 2.0: Online Real Estate Investment Platform Revamps Service with First Ever Robo-Advisor for Real Estate](https://www.crowdfundinsider.com/2017/06/101973-fundrise-2-0-online-real-estate-investment-platform-revamps-service-first-ever-robo-advisor-real-estate/)
 
-[Fundrise How it works](https://fundrise.com/how-it-works)
+[Fundrise - How it works](https://fundrise.com/how-it-works)
 
-[Fundrise About Us](https://fundrise.com/about)
+[Fundrise - About Us](https://fundrise.com/about)
 
-[Form 1k Rise Companies Corp](https://sec.report/Document/0001104659-20-053560/)
+[Form 1k - Rise Companies Corp](https://sec.report/Document/0001104659-20-053560/)
 
-[Where would you like to begin?](https://fundrise.com/start-investing/initial-account-level)
+[Fundrise - Where would you like to begin?](https://fundrise.com/start-investing/initial-account-level)
 
-[The details - Vanguard Digital Advisor](https://investor.vanguard.com/financial-advisor/digital-advisor-details)
+[Vanguard Digital Advisor - The details](https://investor.vanguard.com/financial-advisor/digital-advisor-details)
 
 [Vanguard - Financial Advice](https://investor.vanguard.com/financial-advisor/financial-advice/)
 
