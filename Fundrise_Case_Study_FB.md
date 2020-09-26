@@ -37,30 +37,17 @@ Several industry giants were late movers—Blackstone Real Estate Income Trust (
 ## References
 
 [Retail Investor](https://www.investopedia.com/terms/r/retailinvestor.asp)  
-[Fundrise 2.0: Online Real Estate Investment Platform Revamps Service with First Ever Robo-Advisor for Real Estate](https://www.crowdfundinsider.com/2017/06/101973-fundrise-2-0-online-real-estate-investment-platform-revamps-service-first-ever-robo-advisor-real-estate/)
-
-[Fundrise - How it works](https://fundrise.com/how-it-works)
-
-[Fundrise - About Us](https://fundrise.com/about)
-
-[Form 1k - Rise Companies Corp](https://sec.report/Document/0001104659-20-053560/)
-
-[Fundrise - Where would you like to begin?](https://fundrise.com/start-investing/initial-account-level)
-
-[Vanguard Digital Advisor - The details](https://investor.vanguard.com/financial-advisor/digital-advisor-details)
-
-[Vanguard - Financial Advice](https://investor.vanguard.com/financial-advisor/financial-advice/)
-
-[Stackshare - Fundrise](https://stackshare.io/fundrise/fundrise#team)
-
-[Fundrise - eDirect Technology - Meet the innovations behind our powerful new approach.](https://fundrise.com/e-direct-investing)
-
-[Why Private Markets Outperform Traditional Publicly-Traded Stocks and Bonds](https://fundrise.com/resources/cross-market-efficiency-gains)
-
-[As Robo Advisors Go Viral, Where Do Traditional Money Managers Go?](https://www.investors.com/etfs-and-funds/etfs/fund-industry-wakens-from-slumber-to-take-on-digital-advice-upstarts/)
-
-[Robo - advisor](https://en.wikipedia.org/wiki/Robo-advisor#:~:text=Robo%2Dadvisors%20or%20robo%2Dadvisers,on%20mathematical%20rules%20or%20algorithms.)
-
-[Blackstone Real Estate Income Trust brings institutional quality real estate to income-focused investors](https://www.breit.com/)
-
-[Starwood Real Estate Investment Trust - Investment Strategy](https://www.starwoodnav.reit/sreit/investment-strategy/) 
+[Fundrise 2.0: Online Real Estate Investment Platform Revamps Service with First Ever Robo-Advisor for Real Estate](https://www.crowdfundinsider.com/2017/06/101973-fundrise-2-0-online-real-estate-investment-platform-revamps-service-first-ever-robo-advisor-real-estate/)  
+[Fundrise - How it works](https://fundrise.com/how-it-works)  
+[Fundrise - About Us](https://fundrise.com/about)  
+[Form 1k - Rise Companies Corp](https://sec.report/Document/0001104659-20-053560/)  
+[Fundrise - Where would you like to begin?](https://fundrise.com/start-investing/initial-account-level)  
+[Vanguard Digital Advisor - The details](https://investor.vanguard.com/financial-advisor/digital-advisor-details)  
+[Vanguard - Financial Advice](https://investor.vanguard.com/financial-advisor/financial-advice/)  
+[Stackshare - Fundrise](https://stackshare.io/fundrise/fundrise#team)  
+[Fundrise - eDirect Technology - Meet the innovations behind our powerful new approach.](https://fundrise.com/e-direct-investing)  
+[Why Private Markets Outperform Traditional Publicly-Traded Stocks and Bonds](https://fundrise.com/resources/cross-market-efficiency-gains)  
+[As Robo Advisors Go Viral, Where Do Traditional Money Managers Go?](https://www.investors.com/etfs-and-funds/etfs/fund-industry-wakens-from-slumber-to-take-on-digital-advice-upstarts/)  
+[Robo - advisor](https://en.wikipedia.org/wiki/Robo-advisor#:~:text=Robo%2Dadvisors%20or%20robo%2Dadvisers,on%20mathematical%20rules%20or%20algorithms.)  
+[Blackstone Real Estate Income Trust brings institutional quality real estate to income-focused investors](https://www.breit.com/)  
+[Starwood Real Estate Investment Trust - Investment Strategy](https://www.starwoodnav.reit/sreit/investment-strategy/)  
