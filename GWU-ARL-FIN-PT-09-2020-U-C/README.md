@@ -7,5 +7,5 @@ FinTech Bootcamp class repository. Your homework files and class activites are s
 * Type the following command into your GitBash or Terminal: **git clone** *the repository link*
 
 # Steps to update this repository: 
-* When in the directory on GitBash or Terminal type: *git pull* 
+* When in the directory on GitBash or Terminal type: **git pull** 
 
